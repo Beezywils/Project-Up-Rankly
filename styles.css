@@ -376,7 +376,7 @@ footer {
     }
     
     .footer-links a{
-        font-size: 14px;
+        display: none;
     }
 
     .social-icons{
